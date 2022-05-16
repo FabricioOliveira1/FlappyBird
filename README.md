@@ -3,9 +3,9 @@ Cópia do jogo Flappy Bird desenvolvido durante Curso Web moderno. Foram usados 
 Possui contador de pontuação a cada obstáculo percorrido.
 
 # Modo de Jogar:
-Tecla SPACE - Personagem sobe.
-Teclas soltas - personagem desce.
-Tecla F5 - Reinicia o jogo.
+Tecla SPACE - Personagem sobe. </br>
+Teclas soltas - personagem desce. </br>
+Tecla F5 - Reinicia o jogo. </br>
 
 Objetivo do Jogo é ultrapassar as barreiras pela espaço entre elas assim gerando pontuação.
 
